@@ -43,6 +43,7 @@ contract Profile {
             "Restful",
             "MVC",
             "Metodologia Ágil",
+            "Angular",
             "outros...."
         ];
 
