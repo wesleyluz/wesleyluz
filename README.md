@@ -38,6 +38,8 @@ contract Profile {
         skills = [
             "C#",
             ".NET",
+            "JS",
+            "React",
             "Java",
             "MySQL",
             "Restful",
