@@ -1,5 +1,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
-### E ai, belezinha? Eu sou Wesley Luz, desenvolvedor Back-end a caminho do Full-stack.
+### E ai, belezinha? Eu sou Wesley Luz, desenvolvedor Full-stack.
 
 <div style="text-align: right">
 </div>
@@ -16,7 +16,7 @@
 ## Sobre mim...
 
 - 🔗 Estou aprendendo: Angular e React
-- 🥅 Objetivos 2023: Me tornar um desenvolvedor full-stack
+- 🥅 Objetivos 2024: Me aperfeiçoar como um desenvolvedor full-stack
 - ⚡ Fun fact: Eu amo jogar.
 
 
