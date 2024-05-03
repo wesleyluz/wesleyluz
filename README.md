@@ -1,4 +1,4 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
+
 ### E ai, belezinha? Eu sou Wesley Luz, desenvolvedor Full-stack.
 
 <div style="text-align: right">
