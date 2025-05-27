@@ -36,6 +36,7 @@ contract Profile {
 
     function getSkills() public returns (string[] memory) {
         skills = [
+            "Python",
             "C#",
             ".NET",
             "JS",
@@ -66,8 +67,8 @@ contract Profile {
 
 <br>
 
-<img style="margin: 10px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="NodeJs" height="50" />  
 <img style="margin: 10px" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="50" />
