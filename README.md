@@ -15,7 +15,6 @@
 
 ## Sobre mim...
 
-- 🔗 Estou aprendendo: Angular e React
 - 🥅 Objetivos 2025: Me aperfeiçoar como um desenvolvedor full-stack
 - ⚡ Fun fact: Eu amo jogar.
 
